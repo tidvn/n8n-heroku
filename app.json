@@ -35,12 +35,6 @@
     },
     "addons": [
       {
-        "plan": "heroku-postgresql",
-        "options": {
-          "version": "14"
-        }
-      },
-      {
         "plan": "papertrail:choklad"
       }
     ]
